@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  TimerQ&A
+//  SwipeQ&A
 //
-//  Created by 奥城健太郎 on 2019/02/28.
+//  Created by 奥城健太郎 on 2019/02/27.
 //  Copyright © 2019 奥城健太郎. All rights reserved.
 //
 
